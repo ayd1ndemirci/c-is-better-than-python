@@ -1,5 +1,10 @@
 # c-is-better-than-python
+
+thanks to @OguzhanUmutlu
+
 proof that python is bad
+
+
 
 # Python exit time 🏳️‍🌈 🏳️‍🌈
 ![image](https://github.com/ayd1ndemirci/c-is-better-than-python/assets/128159204/69798445-dd9f-469f-91c3-62cad643c34f)
